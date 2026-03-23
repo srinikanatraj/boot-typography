@@ -91,3 +91,5 @@ This project is open-source and free to use.
 ## ✨ Author
 
 Created for learning and practice purposes.
+
+OUTPUT:https://srinikanatraj.github.io/boot-typography/
